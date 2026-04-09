@@ -231,7 +231,7 @@ bun run dev
 
 ## Usage / Demo
 - The video shows complete usage: Google authentication, scheduling meetings, sending emails, and multi-turn conversation
-- Watch the demo here: [AI Executive Assistant Demo]()
+- Watch a short  demo here: [AI Executive Assistant Demo](https://drive.google.com/file/d/1cGU84D1iBZULUTgNK1PnMku0pVlXMvBf/view?usp=sharing)
 
 ## Notes
 
